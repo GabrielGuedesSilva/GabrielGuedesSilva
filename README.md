@@ -2,7 +2,7 @@
 Eu me chamo Gabriel e sou um estudante de programação em constante aprendizado.
 
 
-Atualmente, estudo e aprimoro minhas habilidades na criação de sistemas web, focando no framework Django. Estou empolgado em explorar suas capacidades para o desenvolvimento ágil de aplicativos web. Meu objetivo é adquirir habilidades sólidas na construção de soluções web escaláveis, seguras e de alto desempenho. Este repositório no GitHub reflete meu progresso e aprendizado contínuo,, e estou aberto a feedback e contribuições da comunidade.
+Atualmente, estudo e aprimoro minhas habilidades na criação de sistemas web, focando no framework Django. Estou empolgado em explorar suas capacidades para o desenvolvimento ágil de aplicativos web. Meu objetivo é adquirir habilidades sólidas na construção de soluções web escaláveis, seguras e de alto desempenho. Este repositório no GitHub reflete meu progresso e aprendizado contínuo, e estou aberto a feedback e contribuições da comunidade.
 
 
 <div>
