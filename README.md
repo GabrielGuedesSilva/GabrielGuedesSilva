@@ -3,13 +3,6 @@ Eu me chamo Gabriel e sou um estudante de programação em constante aprendizado
 
 
 Atualmente, estudo e aprimoro minhas habilidades na criação de sistemas web, focando no framework Django. Estou empolgado em explorar suas capacidades para o desenvolvimento ágil de aplicativos web. Meu objetivo é adquirir habilidades sólidas na construção de soluções web escaláveis, seguras e de alto desempenho. Este repositório no GitHub reflete meu progresso e aprendizado contínuo, e estou aberto a feedback e contribuições da comunidade.
-
-
-<div>
-  <a href="https://github.com/GabrielGuedesSilva">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedesSilva&sh60ow_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" widht = "100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuedesSilva&layout=compact&langs_count=16&theme=gotham"/>
-</div>
     
 <div style="display: inline_block"><br>
   <h2>Ferramentas:</h2>
