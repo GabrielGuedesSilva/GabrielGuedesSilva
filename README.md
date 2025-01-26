@@ -12,7 +12,6 @@ Atualmente, estudo e aprimoro minhas habilidades na criação de sistemas web, f
   <img align="center" alt="MySQL" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-
 <div> 
   <h2>Contatos:</h2>
   <a href="https://www.linkedin.com/in/gabriel-guedes-barros-da-silva-3587a5219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
